@@ -26,6 +26,7 @@ namespace teste
         [STAThread]
         public static int Main(string[] args)
         {
+        	Class1 c = new Class1();
             // Uncomment the following 2 lines if you want to automate Windows apps
             // by starting the test executable directly
             //if (Util.IsRestartRequiredForWinAppAccess)
