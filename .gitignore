@@ -44,4 +44,5 @@ Temporary Items
 
 *.csproj.rxuser
 
-\teste\teste\bin
+/teste/teste/bin
+/teste/teste/obj

@@ -110,4 +110,9 @@
     </Content>
   </ItemGroup>
   <Import Condition="Exists('$(MSBuildExtensionsPath)\Ranorex$(RanorexVersion)\Ranorex.MSBuild.Targets')" Project="$(MSBuildExtensionsPath)\Ranorex$(RanorexVersion)\Ranorex.MSBuild.Targets" />
+  <ItemGroup>
+    <Folder Include="New Folder">
+      <id>59693e49-d0ca-4804-9119-33edf93527f9</id>
+    </Folder>
+  </ItemGroup>
 </Project>
